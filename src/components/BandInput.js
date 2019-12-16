@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import uuid from 'uuid'
 
 class BandInput extends Component {
 
